@@ -9,8 +9,8 @@ Juan Sebastian Morales Delgado \
 | Nombre del Curso                                          | Progreso  | Comentarios                           | Enlace    |
 |-----------------------------------------------------------|-----------|---------------------------------------|-----------|
 | Gherkin & Cucumber                                        |   100%    |                                       |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Gherkin%20y%20Cucumber/Respuestas)  |
-| Git Manual de Supervivencia                               |   0%      |                                       |   [Link]  |
-| Gradle                                                    |   0%      |                                       |   [Link]  |
+| Git Manual de Supervivencia                               |   100%    |                                       |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Git%20Manual%20de%20Supervivencia/Respuestas)  |
+| Gradle                                                    |   70%     | Falta realizar el [Taller Práctico]([Taller Práctico](https://operacion.choucairtesting.com/academy/pluginfile.php/11764/mod_resource/content/2/TallerPracticoGradle.pdf)) |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Gradle/Respuestas)  |
 | Conceptos de Programación Orientada a Objetos             |   0%      |                                       |   [Link]  |
 | Buenas Prácticas de Programación                          |   0%      |                                       |   [Link]  |
 | Tutorial de XPATH                                         |   0%      |                                       |   [Link]  |
