@@ -10,12 +10,12 @@ Juan Sebastian Morales Delgado \
 |-----------------------------------------------------------|-----------|---------------------------------------|-----------|
 | Gherkin & Cucumber                                        |   100%    |                                       |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Gherkin%20y%20Cucumber/Respuestas)  |
 | Git Manual de Supervivencia                               |   100%    |                                       |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Git%20Manual%20de%20Supervivencia/Respuestas)  |
-| Gradle                                                    |   70%     | Falta realizar el [Taller Práctico]([Taller Práctico](https://operacion.choucairtesting.com/academy/pluginfile.php/11764/mod_resource/content/2/TallerPracticoGradle.pdf)) |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Gradle/Respuestas)  |
+| Gradle                                                    |   70%     | Falta realizar el [taller Práctico](https://operacion.choucairtesting.com/academy/pluginfile.php/11764/mod_resource/content/2/TallerPracticoGradle.pdf) |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Gradle/Respuestas)  |
 | Conceptos de Programación Orientada a Objetos             |   0%      |                                       |   [Link]  |
 | Buenas Prácticas de Programación                          |   0%      |                                       |   [Link]  |
 | Tutorial de XPATH                                         |   0%      |                                       |   [Link]  |
 | Tutorial de Selector CSS                                  |   0%      |                                       |   [Link]  |
-| Ejercicio con Patrón Screenplay (WEB)                     |   0%      | CI/CD, y RM creados en repositorio    |   [Link]  |
+| Ejercicio con Patrón Screenplay (WEB)                     |   0%      |                                       |   [Link]  |
 | Azure Devops                                              |   0%      |                                       |   [Link]  |
 | Configuración Pipeline Devops                             |   0%      |                                       |   [Link]  |
 | Java Spring Boot                                          |   0%      |                                       |   [Link]  |
