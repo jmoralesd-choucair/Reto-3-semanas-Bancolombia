@@ -8,7 +8,7 @@ Juan Sebastian Morales Delgado \
 
 | Nombre del Curso                                          | Progreso  | Comentarios                           | Enlace    |
 |-----------------------------------------------------------|-----------|---------------------------------------|-----------|
-| Gherkin & Cucumber                                        |   0%      |                                       |   [Link]  |
+| Gherkin & Cucumber                                        |   100%    |                                       |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Gherkin%20y%20Cucumber/Respuestas)  |
 | Git Manual de Supervivencia                               |   0%      |                                       |   [Link]  |
 | Gradle                                                    |   0%      |                                       |   [Link]  |
 | Conceptos de Programación Orientada a Objetos             |   0%      |                                       |   [Link]  |
