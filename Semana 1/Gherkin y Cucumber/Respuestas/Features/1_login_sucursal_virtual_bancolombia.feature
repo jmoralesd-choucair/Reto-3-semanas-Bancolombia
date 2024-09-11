@@ -7,7 +7,7 @@ Característica: Logueo a la sucursal virtual personas de Bancolombia
     Quiero loguearme en la sucursal virtual personas de Bancolombia
     Para poder acceder a mi cuenta y realizar transacciones
 
-    Contexto: El usuario quiere ingresar a la sucursal virtual personas de Bancolombia
+    Antecedentes: El usuario quiere ingresar a la sucursal virtual personas de Bancolombia
         Dado que el usuario está en la página de logueo de la sucursal virtual de Bancolombia
 
     Escenario: Logueo exitoso a la sucursal virtual personas

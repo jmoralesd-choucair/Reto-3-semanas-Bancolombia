@@ -7,7 +7,7 @@ Característica: Reservar tiquetes en la aplicación web de Avianca
     Quiero reservar tiquetes en la aplicación web
     Para poder volar a mi destino de forma rápida y segura
 
-    Contexto: El usuario quiere reservar tiquetes en la aplicación web de Avianca
+    Antecedentes: El usuario quiere reservar tiquetes en la aplicación web de Avianca
         Dado que el usuario está en la página de reserva de tiquetes de Avianca
         Cuando selecciona el vuelo con los siguientes detalles:
             | Origen    | Destino   | Clase     | Personas              |
