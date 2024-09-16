@@ -13,9 +13,9 @@ Juan Sebastian Morales Delgado \
 | Gradle                                                    |   70%     | Falta realizar el [taller Práctico](https://operacion.choucairtesting.com/academy/pluginfile.php/11764/mod_resource/content/2/TallerPracticoGradle.pdf) |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Gradle/Respuestas)  |
 | Conceptos de Programación Orientada a Objetos             |   100%    |                                       |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Conceptos%20de%20POO/Respuestas)  |
 | Buenas Prácticas de Programación                          |   60%     | Falta realizar los [talleres](https://operacion.choucairtesting.com/academy/mod/assign/view.php?id=1621)                                      |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Buenas%20PP/Respuestas)  |
-| Tutorial de XPATH                                         |   0%      |                                       |   [Link]  |
-| Tutorial de Selector CSS                                  |   0%      |                                       |   [Link]  |
-| Ejercicio con Patrón Screenplay (WEB)                     |   0%      |                                       |   [Link]  |
+| Tutorial de XPATH                                         |   100%      |                                       |   No Aplica  |
+| Tutorial de Selector CSS                                  |   100%      |                                       |   No Aplica  |
+| Ejercicio con Patrón Screenplay (WEB)                     |   80%      |                                       |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Ejercicio%20con%20Patr%C3%B3n%20Screenplay/Respuestas)  |
 | Azure Devops                                              |   0%      |                                       |   [Link]  |
 | Configuración Pipeline Devops                             |   0%      |                                       |   [Link]  |
 | Java Spring Boot                                          |   0%      |                                       |   [Link]  |
