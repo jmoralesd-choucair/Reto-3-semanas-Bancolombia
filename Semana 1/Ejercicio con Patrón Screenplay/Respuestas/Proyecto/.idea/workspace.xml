@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e3c83d8-eb44-44de-86b2-f8c1cf704d4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/co/choucair/interactions/InteractionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/co/choucair/models/UserLoombokData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/co/choucair/questions/ValidateText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/co/choucair/userinterfaces/SerenityLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/co/choucair/utils/GlobalData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/co/choucair/stepdefinitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/co/choucair/stepdefinitions/SerenityLoginStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/serenityLogin.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/co/choucair/runners/DemoRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/co/choucair/runners/SerenityLoginRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/demo.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/01f0a6a9100502f60b201709b1c4e248_indows_duration_under_1_second.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/01f0a6a9100502f60b201709b1c4e248_indows_duration_under_1_second.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/02ff5f884370ea9973723af6a249ce9f_context_windows_result_success.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/02ff5f884370ea9973723af6a249ce9f_context_windows_result_success.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/0362a824151aada7b1ab85d49ed0c04b_lly_chrome_comma_windows_login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/0362a824151aada7b1ab85d49ed0c04b_lly_chrome_comma_windows_login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/0e5f948c4603b09292e92015260e6e4c_indows_duration_2_to_5_minutes.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/0e5f948c4603b09292e92015260e6e4c_indows_duration_2_to_5_minutes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/1353527b97389523669f4e904f0409e8_second_duration_under_1_second.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/1353527b97389523669f4e904f0409e8_second_duration_under_1_second.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/1e31988b1953dd1553648f25fe58ec15_second_duration_under_1_second.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/1e31988b1953dd1553648f25fe58ec15_second_duration_under_1_second.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/237d1a495e99f3b6289803433bb622e4__2_to_5_minutes_result_success.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/237d1a495e99f3b6289803433bb622e4__2_to_5_minutes_result_success.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/28db563b9fec4b56c3daae07fa82327f_ogin_sucessfully_windows_login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/28db563b9fec4b56c3daae07fa82327f_ogin_sucessfully_windows_login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/2dfcee879f8205485ecc72b90200fa64_indows_duration_2_to_5_minutes.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/2dfcee879f8205485ecc72b90200fa64_indows_duration_2_to_5_minutes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/424b4d82c25ab77f4af3a3bfc0b097c1_indows_duration_2_to_5_minutes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/424b4d82c25ab77f4af3a3bfc0b097c1_indows_duration_2_to_5_minutes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/43c35e707ab9e953a7064fbb38fefcc1__2_to_5_minutes_result_success.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/43c35e707ab9e953a7064fbb38fefcc1__2_to_5_minutes_result_success.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/5379eef6977c562d3c15d2352ec7615f_chrome_duration_2_to_5_minutes.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/5379eef6977c562d3c15d2352ec7615f_chrome_duration_2_to_5_minutes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/550f45cf6669d07f099292b9e8b92db2_indows_duration_under_1_second.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/550f45cf6669d07f099292b9e8b92db2_indows_duration_under_1_second.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/5ff86d3fc00c8b4d8df269f1f5a1f85e_rome_c__windows_result_success.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/5ff86d3fc00c8b4d8df269f1f5a1f85e_rome_c__windows_result_success.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/6c6d36f9e30c32de7c9611b62188ff75__under_1_second_result_pending.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/6c6d36f9e30c32de7c9611b62188ff75__under_1_second_result_pending.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/72666746bfda2c45e1b67aaec7a4c55f_ntext_cl_chrome_result_success.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/72666746bfda2c45e1b67aaec7a4c55f_ntext_cl_chrome_result_success.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/8870e6f1634e1297992f05f702b45abf_indows_duration_2_to_5_minutes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/8870e6f1634e1297992f05f702b45abf_indows_duration_2_to_5_minutes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/953d4a01a6f5306df6756be93bbc9deb_duration_under_1_second.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/953d4a01a6f5306df6756be93bbc9deb_duration_under_1_second.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/953d4a01a6f5306df6756be93bbc9deb_duration_under_1_second.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/953d4a01a6f5306df6756be93bbc9deb_duration_under_1_second.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/a1e44552106c8f3934eb6f5c4d18c2f7_inutes_duration_2_to_5_minutes.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/a1e44552106c8f3934eb6f5c4d18c2f7_inutes_duration_2_to_5_minutes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/a396efb27cdfe5a722be3d67da3e0319_context_windows.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/a396efb27cdfe5a722be3d67da3e0319_context_windows.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/a396efb27cdfe5a722be3d67da3e0319_context_windows.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/a396efb27cdfe5a722be3d67da3e0319_context_windows.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/abf189e861e92419a5f7ef4628ee0741_inutes_duration_2_to_5_minutes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/abf189e861e92419a5f7ef4628ee0741_inutes_duration_2_to_5_minutes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/b586a8bc41cc7cf1c7119ce7216f8492_chrome_duration_2_to_5_minutes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/b586a8bc41cc7cf1c7119ce7216f8492_chrome_duration_2_to_5_minutes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/b587a0a9274f8b6e3d8e0bb0ae8cb9bf_context_chrome.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/b587a0a9274f8b6e3d8e0bb0ae8cb9bf_context_chrome.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/b587a0a9274f8b6e3d8e0bb0ae8cb9bf_context_chrome.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/b587a0a9274f8b6e3d8e0bb0ae8cb9bf_context_chrome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/b8c328145168e8f2b8a4f1654fa27a3e_login_sucessfully_windows_demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/b8c328145168e8f2b8a4f1654fa27a3e_login_sucessfully_windows_demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/browser-chrome.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/build-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/build-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/capabilities.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/capabilities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ce81faa7993810e83b16bc3457e28b78_result_success.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/ce81faa7993810e83b16bc3457e28b78_result_success.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ce81faa7993810e83b16bc3457e28b78_result_success.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ce81faa7993810e83b16bc3457e28b78_result_success.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/d6208b144f19fcc661e0aa5bca84b239_context_chrome_result_success.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/d6208b144f19fcc661e0aa5bca84b239_context_chrome_result_success.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/d782c44557441225cc92a5e35bf4b23b_requirement_type_feature.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/d782c44557441225cc92a5e35bf4b23b_requirement_type_feature.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/d93f47896dc9d32e060ae3527b97983a_context_windows_result_pending.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/d93f47896dc9d32e060ae3527b97983a_context_windows_result_pending.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/df1fc12720a448edacde11f8dbcf9dc0_text_cl_windows_result_pending.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/df1fc12720a448edacde11f8dbcf9dc0_text_cl_windows_result_pending.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/e0a22b5d57e669971276b4e3765dd42e_text_cl_windows_result_success.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/e0a22b5d57e669971276b4e3765dd42e_text_cl_windows_result_success.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/e3c988cc8691861b10cff74fe45e5e2c_result_pending.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/e3c988cc8691861b10cff74fe45e5e2c_result_pending.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/e3c988cc8691861b10cff74fe45e5e2c_result_pending.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/e3c988cc8691861b10cff74fe45e5e2c_result_pending.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/e4295ac1bd7f838accf975dc8cef1a22_rome_c__windows_result_success.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/e4295ac1bd7f838accf975dc8cef1a22_rome_c__windows_result_success.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/e54337ba32bd5d52b2c4a3afe4819b97_context_chrome_c__windows.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/e54337ba32bd5d52b2c4a3afe4819b97_context_chrome_c__windows.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/e54337ba32bd5d52b2c4a3afe4819b97_context_chrome_c__windows.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/e54337ba32bd5d52b2c4a3afe4819b97_context_chrome_c__windows.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/f55886a9c59a9021c238668d4e9442fc__under_1_second_result_pending.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/f55886a9c59a9021c238668d4e9442fc__under_1_second_result_pending.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/fe341b41ba7ecbad5098ebb4a4dd751b_duration_2_to_5_minutes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/fe341b41ba7ecbad5098ebb4a4dd751b_duration_2_to_5_minutes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/fe341b41ba7ecbad5098ebb4a4dd751b_duration_2_to_5_minutes.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/fe341b41ba7ecbad5098ebb4a4dd751b_duration_2_to_5_minutes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/results.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/summary.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ProyectoBaseSPCandidato" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2c94Tivsf3Osn5dAuPC49ZEBWpv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mgarzonr/Desktop/Choucair/ProyectoBaseSPCandidato/src/test/resources/features&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mgarzonr\Desktop\Choucair\ProyectoBaseSPCandidato\src\test\resources\features" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.co.choucair.questions" />
+      <recent name="com.co.choucair.models" />
+      <recent name="com.co.choucair.userinterfaces" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.SerenityLoginRunner">
+    <configuration name="SerenityLoginRunner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.co.choucair.runners.SerenityLoginRunner&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="RemoteWebDriverTest.uploads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProyectoBaseSPCandidato.main" />
+      <shortenClasspath name="ARGS_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.co.choucair.drivers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.co.choucair.drivers" />
+      <option name="MAIN_CLASS_NAME" value="com.co.choucair.drivers.RemoteWebDriverTest" />
+      <option name="METHOD_NAME" value="uploads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <shortenClasspath name="ARGS_FILE" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RemoteWebDriverTest.uploads" />
+        <item itemvalue="Gradle.SerenityLoginRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e3c83d8-eb44-44de-86b2-f8c1cf704d4a" name="Changes" comment="" />
+      <created>1707510469930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707510469930</updated>
+    </task>
+    <servers />
+  </component>
+</project>
