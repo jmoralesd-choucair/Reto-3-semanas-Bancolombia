@@ -8,26 +8,28 @@ Juan Sebastian Morales Delgado \
 
 | Nombre del Curso                                          | Progreso  | Comentarios                           | Enlace    |
 |-----------------------------------------------------------|-----------|---------------------------------------|-----------|
-| Gherkin & Cucumber                                        |   100%    |                                       |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Gherkin%20y%20Cucumber/Respuestas)  |
-| Git Manual de Supervivencia                               |   100%    |                                       |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Git%20Manual%20de%20Supervivencia/Respuestas)  |
-| Gradle                                                    |   70%     | Falta realizar el [taller Práctico](https://operacion.choucairtesting.com/academy/pluginfile.php/11764/mod_resource/content/2/TallerPracticoGradle.pdf) |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Gradle/Respuestas)  |
+| |  Semana 1 | | |
+| Gherkin & Cucumber                                        |   100%    ||   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Gherkin%20y%20Cucumber/Respuestas)  |
+| Git Manual de Supervivencia                               |   100%    ||   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Git%20Manual%20de%20Supervivencia/Respuestas)  |
+| Gradle                                                    |   100%     ||   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Gradle/Respuestas)  |
 | Conceptos de Programación Orientada a Objetos             |   100%    |                                       |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Conceptos%20de%20POO/Respuestas)  |
-| Buenas Prácticas de Programación                          |   60%     | Falta realizar los [talleres](https://operacion.choucairtesting.com/academy/mod/assign/view.php?id=1621)                                      |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Buenas%20PP/Respuestas)  |
+| Buenas Prácticas de Programación                          |   100%     |                                       |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Buenas%20PP/Respuestas)  |
 | Tutorial de XPATH                                         |   100%      |                                       |   No Aplica  |
 | Tutorial de Selector CSS                                  |   100%      |                                       |   No Aplica  |
-| Ejercicio con Patrón Screenplay (WEB)                     |   80%      |                                       |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Ejercicio%20con%20Patr%C3%B3n%20Screenplay/Respuestas)  |
-| Azure Devops                                              |   0%      |                                       |   [Link]  |
+| Ejercicio con Patrón Screenplay (WEB)                     |   100%      |                                       |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Ejercicio%20con%20Patr%C3%B3n%20Screenplay/Respuestas)  |
+| Azure Devops                                              |   30%     |Quiz y Taller práctico                 |   [Link]  |
 | Configuración Pipeline Devops                             |   0%      |                                       |   [Link]  |
 | Java Spring Boot                                          |   0%      |                                       |   [Link]  |
-| TDD Conceptos                                             |   0%      |                                       |   [Link]  |
-| TDD Buenas Prácticas                                      |   0%      |                                       |   [Link]  |
-| Cloud Computing                                           |   0%      |                                       |   [Link]  |
-| AWS Básico                                                |   0%      |                                       |   [Link]  |
-| AWS CloudFormation                                        |   0%      |                                       |   [Link]  |
+| |  Semana 2 | | |
+| TDD Conceptos                                             |   100%    |                                       |   No Aplica  |
+| TDD Buenas Prácticas                                      |   100%    |                                       |   No Aplica  |
+| Cloud Computing                                           |   100%    |                                       |   No Aplica  |
+| AWS Básico                                                |   100%    |                                       |   No Aplica  |
 | AWS Lambda                                                |   0%      |                                       |   [Link]  |
-| Postman                                                   |   0%      |                                       |   [Link]  |
-| Jmeter                                                    |   0%      |                                       |   [Link]  |
+| Postman                                                   |   50%     | Realizando los ejercicios de práctica |   [Link]  |
+| Jmeter                                                    |   50%     | Realizando los ejercicios de práctica |   [Link]  |
 | Karate                                                    |   0%      |                                       |   [Link]  |
+| |  Semana 3 | | |
 | Oracle Java                                               |   0%      |                                       |   [Link]  |
 | Oracle DB2                                                |   0%      |                                       |   [Link]  |
 | MongoDB                                                   |   0%      |                                       |   [Link]  |
