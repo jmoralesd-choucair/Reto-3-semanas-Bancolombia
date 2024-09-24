@@ -8,7 +8,7 @@ Juan Sebastian Morales Delgado \
 
 | Nombre del Curso                                          | Progreso  | Comentarios                           | Enlace    |
 |-----------------------------------------------------------|-----------|---------------------------------------|-----------|
-| |  Semana 1 | | |
+|                                                           |  Semana 1 |                                       |              |
 | Gherkin & Cucumber                                        |   100%    ||   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Gherkin%20y%20Cucumber/Respuestas)  |
 | Git Manual de Supervivencia                               |   100%    ||   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Git%20Manual%20de%20Supervivencia/Respuestas)  |
 | Gradle                                                    |   100%     ||   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Gradle/Respuestas)  |
@@ -17,10 +17,9 @@ Juan Sebastian Morales Delgado \
 | Tutorial de XPATH                                         |   100%      |                                       |   No Aplica  |
 | Tutorial de Selector CSS                                  |   100%      |                                       |   No Aplica  |
 | Ejercicio con Patrón Screenplay (WEB)                     |   100%      |                                       |   [Link](https://github.com/jmoralesd-choucair/Reto-3-semanas-Bancolombia/tree/main/Semana%201/Ejercicio%20con%20Patr%C3%B3n%20Screenplay/Respuestas)  |
-| Azure Devops                                              |   30%     |Quiz y Taller práctico                 |   [Link]  |
+| Azure Devops                                              |   30%     | Falta Quiz y Taller práctico          |   [Link]  |
 | Configuración Pipeline Devops                             |   0%      |                                       |   [Link]  |
-| Java Spring Boot                                          |   0%      |                                       |   [Link]  |
-| |  Semana 2 | | |
+|                                                           |  Semana 2 |                                       |              |
 | TDD Conceptos                                             |   100%    |                                       |   No Aplica  |
 | TDD Buenas Prácticas                                      |   100%    |                                       |   No Aplica  |
 | Cloud Computing                                           |   100%    |                                       |   No Aplica  |
@@ -29,7 +28,7 @@ Juan Sebastian Morales Delgado \
 | Postman                                                   |   50%     | Realizando los ejercicios de práctica |   [Link]  |
 | Jmeter                                                    |   50%     | Realizando los ejercicios de práctica |   [Link]  |
 | Karate                                                    |   0%      |                                       |   [Link]  |
-| |  Semana 3 | | |
+|                                                           |  Semana 3 |                                       |              |
 | Oracle Java                                               |   0%      |                                       |   [Link]  |
 | Oracle DB2                                                |   0%      |                                       |   [Link]  |
 | MongoDB                                                   |   0%      |                                       |   [Link]  |
